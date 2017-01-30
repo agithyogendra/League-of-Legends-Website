@@ -1,0 +1,79 @@
+
+.nav a {
+  color: #5a5a5a;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.nav li {
+  display: inline;
+}
+
+.jumbotron {
+  background-image:url('data/Lol.jpg');
+  height: 900px;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.jumbotron .container {
+  position: relative;
+  top:100px;
+}
+
+.jumbotron h1 {
+  font-family: 'Merienda One', cursive;
+  color: #FFF056;
+  font-size: 48px;  
+  
+}
+
+.jumbotron p {
+  font-family: 'Merienda One', cursive;
+  font-size: 20px;
+  color: #FDF3E7;
+}
+
+.learn-more {
+  background-color: #DE1B1B;
+}
+
+.learn-more h3 {
+  position:relative;
+  font-family: 'Domine', serif;
+  font-size: 18px;
+  font-weight: bold;
+  color: #E9E581;
+  left:80px;
+}
+
+.neighborhood-guides{
+    
+    background-color:#2B2B2B;
+    border-bottom: 1px solid #dbdbdb; 
+}
+
+.neighborhood-guides p{
+    font-size:20px;
+    margin-bottom:13px;
+}
+
+#cool{
+  font-family: 'Open Sans', sans-serif;
+	color:#67BCDB;
+	font-weight: bold;
+	
+}
+
+.shift{
+	position: relative;
+	left: 100px;
+}
+
+.autofocus{
+  color: #E9E581;
+}
+
+
