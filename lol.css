@@ -13,9 +13,8 @@
 
 .jumbotron {
   background-image:url('data/Lol.jpg');
-  height: 900px;
-  background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
+  height:846px
 }
 
 .jumbotron .container {
